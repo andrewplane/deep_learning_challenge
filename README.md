@@ -17,6 +17,7 @@ This project explores deep learning model optimization looking at charitable gra
 - All data was scaled using StandardScalar()
 - The neural net model utilized only 8 neurons in a relu activation.
 - 20 epochs were needed to consistantly performa above the target accuracy of 75%
+![alt text](images/image1.png)
 
 ## Acknoledgements
 - This project was created as part of the EdX Data Analytics Bootcamp
